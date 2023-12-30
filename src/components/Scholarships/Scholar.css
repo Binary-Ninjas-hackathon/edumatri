@@ -1,5 +1,5 @@
 .resources-bg {
-  background-color: #060915;
+  
   background-size: cover;
 }
 
@@ -12,6 +12,7 @@
 
 .res-learning-image {
   width: 20%;
+  align-items: center;
 }
 
 .res-learn-name {
@@ -23,7 +24,7 @@
 }
 
 .Resources-card-bg {
-  background-image: radial-gradient(#56e7c0, #10906d));
+  background-image: radial-gradient(#56e7c0, #10906d);
   width: 100%;
   border-radius: 15px;
   padding: 10px;
@@ -86,7 +87,7 @@
 }
 
 .skills-background {
-  background-image: radial-gradient(#56e7c0, #10906d));
+  background-image: radial-gradient(#56e7c0, #10906d);
   width: 100%;
   border-radius: 15px;
   padding: 10px;

@@ -9,14 +9,14 @@ const Scholar = () => {
     <>
       <Navbar />
       <div class="resources-bg pt-5 pb-5">
-        <div class="container mx-6">
+        <div class="container">
           <div class="grid sm:grid-cols-4 grid-cols-2 gap-4">
             <div class="sm:col-span-4 col-span-2 ">
               <p class="Resources-headings">Resources</p>
             </div>
             <div class="Resources-card-bg">
               <a href="#scholarshipsection">
-                <div class="text-center shadow mb-3">
+                <div class="text-center shadow mb-3 flex flex-col items-center">
                   <img
                     src="https://static.thenounproject.com/png/3314643-200.png"
                     class="res-learning-image"
@@ -28,7 +28,7 @@ const Scholar = () => {
 
             <div class="Resources-card-bg">
               <a href="#learningsection">
-                <div class=" text-center shadow mb-3">
+                <div class=" text-center shadow mb-3 flex flex-col items-center">
                   <img
                     src="https://cdn.iconscout.com/icon/premium/png-512-thumb/learning-2454398-2034839.png"
                     class="res-learning-image"
@@ -39,7 +39,7 @@ const Scholar = () => {
             </div>
             <div class="Resources-card-bg">
               <a href="#youtubechannelsection">
-                <div class=" text-center shadow mb-3">
+                <div class=" text-center shadow mb-3 flex flex-col items-center">
                   <img
                     src="https://cdn.iconscout.com/icon/premium/png-512-thumb/blended-learning-1600862-1357191.png"
                     class="res-learning-image"
@@ -50,7 +50,7 @@ const Scholar = () => {
             </div>
             <div class="Resources-card-bg">
               <a href="#practiceplatformssection">
-                <div class=" text-center shadow mb-3">
+                <div class=" text-center shadow mb-3 flex flex-col items-center">
                   <img
                     src="https://cdn.iconscout.com/icon/premium/png-256-thumb/art-1917092-1626042.png"
                     class="res-learning-image"
