@@ -47,9 +47,10 @@ body {
   animation-delay: 5s;
 }
 .textbox {
+  color: #1a1a27;
   padding: 20px 30px;
   background-image: linear-gradient(#41c6d6, #8de9ed);
-  font-family: roboto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   position: relative;
   border-radius: 6px;
   font-size: 15px;
@@ -114,6 +115,7 @@ body {
 
 .heading-h1 {
   font-size: 4rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: white;
   text-align: center;
 }
