@@ -9,7 +9,7 @@ const Scholar = () => {
     <>
       <Navbar />
       <div class="resources-bg pt-5 pb-5">
-        <div class="container">
+        <div class="container mx-6">
           <div class="grid sm:grid-cols-4 grid-cols-2 gap-4">
             <div class="sm:col-span-4 col-span-2 ">
               <p class="Resources-headings">Resources</p>

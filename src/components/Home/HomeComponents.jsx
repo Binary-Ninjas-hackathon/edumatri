@@ -12,11 +12,7 @@ export const HomeComponents = () => {
   window.scrollTo(0, 0);
   return (
     <div className="bg-primary w-full overflow-hidden">
-      <div className={`${styles.paddingX} ${styles.flexCenter}`}>
-        <div className={`${styles.boxWidth}`}>
-          <Navbar isHomePage />
-        </div>
-      </div>
+      <Navbar isHomePage />
 
       <div className={`bg-primary ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>

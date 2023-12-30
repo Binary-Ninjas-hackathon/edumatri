@@ -14,7 +14,7 @@ const YearwiseRoadmap = ({ years }) => {
   return (
     <>
       <Navbar />
-      <div className="bg-primary-700">
+      <div className="bg-primary-700  px-5">
         <h1 className="heading-h1">Year-Wise Roadmap</h1>
         <hr />
         <div className="my-5 mx-auto text-center">
