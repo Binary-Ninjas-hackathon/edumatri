@@ -20,7 +20,7 @@ const Navbar = ({ isHomePage }) => {
           <img
             src={logo}
             alt="hoobank"
-            className="w-[124px] h-[32px]"
+            className="w-[124px] h-[32px] cursor-pointer"
             onClick={() => {
               navigate(`${RoutePrefix}/${RouteNames.Home}`);
             }}
