@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/edumatri/static/css/main.0150f297.css",
-    "main.js": "/edumatri/static/js/main.4cfa4a1d.js",
+    "main.css": "/edumatri/static/css/main.0a45629f.css",
+    "main.js": "/edumatri/static/js/main.c5417d30.js",
     "static/js/787.a82397e3.chunk.js": "/edumatri/static/js/787.a82397e3.chunk.js",
     "static/media/robot.png": "/edumatri/static/media/robot.e27590f872f8367799a9.png",
     "static/media/bill.png": "/edumatri/static/media/bill.4acdb63e05d3190daa7c.png",
@@ -14,12 +14,12 @@
     "index.html": "/edumatri/index.html",
     "static/media/arrow-up.svg": "/edumatri/static/media/arrow-up.f0281f2a41a6844dff95ff0c3a06e194.svg",
     "static/media/Send.svg": "/edumatri/static/media/Send.b7f09b0fd9a29ffad13e1f504acd624a.svg",
-    "main.0150f297.css.map": "/edumatri/static/css/main.0150f297.css.map",
-    "main.4cfa4a1d.js.map": "/edumatri/static/js/main.4cfa4a1d.js.map",
+    "main.0a45629f.css.map": "/edumatri/static/css/main.0a45629f.css.map",
+    "main.c5417d30.js.map": "/edumatri/static/js/main.c5417d30.js.map",
     "787.a82397e3.chunk.js.map": "/edumatri/static/js/787.a82397e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0150f297.css",
-    "static/js/main.4cfa4a1d.js"
+    "static/css/main.0a45629f.css",
+    "static/js/main.c5417d30.js"
   ]
 }
