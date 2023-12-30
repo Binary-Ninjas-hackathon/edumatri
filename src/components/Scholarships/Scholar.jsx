@@ -8,7 +8,7 @@ const Scholar = () => {
   return (
     <>
       <Navbar />
-      <div class="resources-bg pt-5 pb-5">
+      <div class="bg-primary-900 pt-5 pb-5 pl-5 pr-5">
         <div class="container">
           <div class="grid sm:grid-cols-4 grid-cols-2 gap-4">
             <div class="sm:col-span-4 col-span-2 ">

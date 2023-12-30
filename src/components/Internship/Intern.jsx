@@ -8,10 +8,10 @@ const Intern = () => {
   return (
     <>
       <Navbar />
-      <div className="bg-primary-900 pt-5 pb-5 pl-5 pr-5">
+      <div className="bg-primary-900 pt-5 pb-5 pl-5 pr-5 ">
         <div className="grid sm:grid-cols-4 grid-cols-2 gap-4">
           <div className="sm:col-span-4 col-span-2 pt-5 pb-5">
-            <h1 className="text-teal-400 text-3xl font-semibold">
+            <h1 className=" hire-ops-headings text-3xl font-semibold">
               Placements & Internship guide and hiring challenges
             </h1>
           </div>
@@ -23,7 +23,7 @@ const Intern = () => {
               </h1>
               <a
                 href="https://whimsical.com/internship-and-placement-guide-XkAX3DDuKACcREs6Ko7F8i"
-                className="text-teal-400 font-medium"
+                className="hire-ops-card-link font-medium"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -52,7 +52,7 @@ const Intern = () => {
               </h1>
               <a
                 href="https://levelup.gitconnected.com/top-hackathons-through-which-company-hires-63e01cb7a807"
-                className="text-teal-400 font-medium"
+                className="hire-ops-card-link font-medium"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -75,7 +75,7 @@ const Intern = () => {
           </div>
 
           <div className="sm:col-span-4 col-span-2 pt-5 pb-5">
-            <h1 className="text-teal-400 text-3xl font-semibold">
+            <h1 className=" hire-ops-headings text-3xl font-semibold">
               Open sources
             </h1>
             <p className="text-white italic">
